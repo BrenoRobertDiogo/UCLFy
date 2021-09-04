@@ -1,0 +1,1223 @@
+[
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/58D69E51D0299D962817A58586FFA79F.png",
+      "brand": {
+        "name": "BONAQA",
+        "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_bonaqa"
+      },
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "BONAQUA AGUA C/GAS 500||AGUA | AGUA MINERAL C/GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7894900211900,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7894900211900
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:41:12.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/21504363F7FD2EC2FBEA49FF38A01CC3.png",
+      "brand": {
+        "name": "GENUINA LINDOYA",
+        "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_lindoyana-genuina"
+      },
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "LINDOYA C/ GAS||AGUA | AGUA MINERAL LINDOYA COM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": 630,
+      "gtin": 7896275300906,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7896275300906
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": 600,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-08-13T11:57:02.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/94187D1DC24776F10E3E8381837302E8.png",
+      "created_at": "2015-01-14T22:00:00.000-02:00",
+      "description": "AGUA MIN.FRESCCA SEM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898386200090,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898386200090
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-05-03T18:23:29.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/BC805975454BC2D3E0EAB916C89CBE47.png",
+      "brand": {
+        "name": "PURA FONT",
+        "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+      },
+      "created_at": "2015-01-14T22:00:00.000-02:00",
+      "description": "AGUA PURAFONT S/GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7891025700722,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7891025700722
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:39:50.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/21504363F7FD2EC26D541340DB45D6A5.png",
+      "brand": {
+        "name": "GENUINA LINDOYA",
+        "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_lindoyana-genuina"
+      },
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "LINDOYA COM GAS||AGUA",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7896275301200,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7896275301200
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:46:22.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/21504363F7FD2EC299A262E4F06CA908.png",
+      "brand": {
+        "name": "GENUINA LINDOYA",
+        "picture": "https://cdn-cosmos.bluesoft.com.br/brands/brand_lindoyana-genuina"
+      },
+      "cest": {
+        "code": "0300500",
+        "description": "Água mineral, gasosa ou não, ou potável, naturais, em copo plástico descartável",
+        "id": 1834,
+        "parent_id": 1657
+      },
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "LINDOYA SEM GAS||AGUA",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7896275301101,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7896275301101
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:35:39.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": 2.625,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/CB6267B3CAC8A38D408E31A6E36CBA63.png",
+      "brand": {
+        "name": "BIOLEVE",
+        "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+      },
+      "cest": {
+        "code": "0300100",
+        "description": "Água mineral, gasosa ou não, ou potável, naturais, em garrafa de vidro, retornável ou não, com capacidade de até 500 ml",
+        "id": 1830,
+        "parent_id": 1657
+      },
+      "created_at": "2015-10-29T09:37:49.000-02:00",
+      "description": "AGUA BIOLEVE S/GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7896843200911,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7896843200911
+        },
+        {
+          "commercial_unit": {
+            "ballast": 0,
+            "layer": 0,
+            "quantity_packaging": 12,
+            "type_packaging": "Caixa"
+          },
+          "gtin": 17896843200932
+        }
+      ],
+      "height": null,
+      "length": null,
+      "max_price": 3.5,
+      "min_price": 1.75,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": "R$ 1,75 a R$ 3,50",
+      "thumbnail": "https://cdn-cosmos.bluesoft.com.br/products/7896843200911",
+      "updated_at": "2021-09-03T05:36:37.000-03:00",
+      "width": null
+    },
+    {
+      "avg_price": 6.99,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/2F392EC408F55B11D71D9F959D159724.png",
+      "brand": {
+        "name": "LA ÁGUA",
+        "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+      },
+      "created_at": "2019-02-06T20:33:45.000-02:00",
+      "description": "AGUA MINERAL LA AGUA S/GAS 6L",
+      "gross_weight": null,
+      "gtin": 7898918000037,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898918000037
+        }
+      ],
+      "height": null,
+      "length": null,
+      "max_price": 7.99,
+      "min_price": 5.99,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": "R$ 5,99 a R$ 7,99",
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-08-28T16:21:52.000-03:00",
+      "width": null
+    },
+    {
+      "avg_price": 1.62,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/E6E75AC8F64F649D01A4D0A9E46D91EF.png",
+      "brand": {
+        "name": "PORTO",
+        "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+      },
+      "cest": {
+        "code": "0300600",
+        "description": "Outras águas minerais, gasosa ou não, ou potável, naturais; exceto as classificadas no CEST 03.003.00, 03.003.01, 03.005.00, 03.005.01 a 03.005.05, 03.024.00 e 03.025.00",
+        "id": 1835,
+        "parent_id": 1657
+      },
+      "created_at": "2016-04-06T01:19:49.000-03:00",
+      "description": "AGUA MINERAL AGUAS PORTO S GAS 510ML",
+      "gross_weight": null,
+      "gtin": 7898994148043,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898994148043
+        },
+        {
+          "commercial_unit": {
+            "ballast": 0,
+            "layer": 0,
+            "quantity_packaging": 12,
+            "type_packaging": "Caixa"
+          },
+          "gtin": 17896058501435
+        }
+      ],
+      "height": null,
+      "length": null,
+      "max_price": 2.5,
+      "min_price": 0.74,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:45:46.000-03:00",
+      "width": null
+    },
+    {
+      "avg_price": 2.695,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/E6E75AC8F64F649D6506F9B7F1F807E9.png",
+      "brand": {
+        "name": "ÁGUAS DO PORTO",
+        "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+      },
+      "created_at": "2018-08-14T13:02:06.000-03:00",
+      "description": "AGUA MINERAL AGUAS PORTO S GAS 1,5L",
+      "gross_weight": null,
+      "gtin": 7898994148036,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898994148036
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 4.0,
+      "min_price": 1.39,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": "R$ 1,39 a R$ 4,00",
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-08-28T16:22:01.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/C498CE582209CD5A6BAE45215FC5B2C4.png",
+      "created_at": "2018-06-24T06:43:42.000-03:00",
+      "description": "AGUA CRYSTAL COM GAS 1,5",
+      "gross_weight": 1575,
+      "gtin": 7894900138634,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7894900138634
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": 1500,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-08-11T15:21:26.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/AFA442D3A3681A0FF42C32EC0BE8209F.png",
+      "created_at": "2017-07-13T17:36:37.000-03:00",
+      "description": "AGUA JACUTINGA S/ GÁS 1,5LITRO",
+      "gross_weight": null,
+      "gtin": 7898087700097,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898087700097
+        }
+      ],
+      "height": null,
+      "length": null,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-08-11T06:56:09.000-03:00",
+      "width": null
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/F0D4E8A2512968310D5D9BC0FC0457EC.png",
+      "created_at": "2016-04-06T02:10:09.000-03:00",
+      "description": "AGUA MIN.CRYSTAL 1500ML SEM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": 1,
+      "gtin": 7896371001967,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7896371001967
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": 1,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:44:03.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/B984829B9C38DD02CAD8A0DAE5F9BEE5.png",
+      "created_at": "2016-04-06T02:33:14.000-03:00",
+      "description": "AGUA PRATANIA S/GAS 1,5LT",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898226860040,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898226860040
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:48:09.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/50E6641586504AD66862A02C390467E0.png",
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "AGUA MINERAL CLARISSIMA S/GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898906467347,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898906467347
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:42:35.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/76CA018716EDF59BDED683E3E0237F18.png",
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "AGUA MINERAL DIMESA SEM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898907378604,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898907378604
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2019-12-10T20:03:38.000-02:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/0536BF296D6A8030953D5EAED6D1E9F8.png",
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "AGUA MINERAL POA S/ GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": 1575,
+      "gtin": 7898013120227,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898013120227
+        },
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 6,
+            "type_packaging": "Pacote"
+          },
+          "gtin": 7898013120258
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": 1500,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:46:09.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/AFA442D3A3681A0F0C500DB6104EE7F7.png",
+      "brand": {
+        "name": "JACUTINGA SAUDE",
+        "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+      },
+      "cest": {
+        "code": "0300100",
+        "description": "Água mineral, gasosa ou não, ou potável, naturais, em garrafa de vidro, retornável ou não, com capacidade de até 500 ml",
+        "id": 1830,
+        "parent_id": 1657
+      },
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "AGUA MINERAL SAUDE COM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898087700127,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898087700127
+        }
+      ],
+      "height": null,
+      "length": null,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-07-27T10:32:20.000-03:00",
+      "width": null
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/56C5996AF67AE53F6FD22637F5B106C8.png",
+      "created_at": "2015-01-14T22:00:00.000-02:00",
+      "description": "AGUA MINERAL PILAR S/GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7896742800045,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7896742800045
+        }
+      ],
+      "height": null,
+      "length": null,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:42:01.000-03:00",
+      "width": null
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/DD69FDFF66E94B01196845C2DF9E2BDA.png",
+      "created_at": "2015-01-14T22:00:00.000-02:00",
+      "description": "AGUA MINERAL LINDOIA S/GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898218400148,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898218400148
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:45:34.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/2F392EC408F55B11DDF7F98B8D2036D5.png",
+      "created_at": "2015-01-14T22:00:00.000-02:00",
+      "description": "AGUA MINERAL VERNATT S/GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898918000044,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898918000044
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:41:54.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/15F5327F9D6FC284200A1F1F76E223E8.png",
+      "created_at": "2015-09-24T02:12:14.000-03:00",
+      "description": "AGUA MIN.PURAFONT 5L SEM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7891025105480,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7891025105480
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:38:02.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/68E223FD44857938243D856A891839D2.png",
+      "brand": {
+        "name": "ATTIVA",
+        "picture": "/assets/brand-placeholder-7080174fbd24025783105a607811edad.png"
+      },
+      "cest": {
+        "code": "1701000",
+        "description": "Sucos de frutas ou de produtos hortícolas; mistura de sucos",
+        "id": 2035,
+        "parent_id": 1671
+      },
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "AGUA MINERAL ATTIVA SEM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898917308271,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898917308271
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "20096900",
+        "description": "Outros",
+        "full_description": "Preparações de produtos hortícolas, de frutas ou de outras partes de plantas - Sucos (sumos) de fruta (incluindo os mostos de uvas) ou de produtos hortícolas, não fermentados, sem adição de álcool, mesmo com adição de açúcar ou de outros edulcorantes. - Suco (sumo) de uva (incluindo os mostos de uvas): - Outros"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/IV-2409d8da52fe4e7872b64988b2feca0a.png",
+      "updated_at": "2021-06-16T02:59:23.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/0536BF296D6A8030161C2726FEEA986E.png",
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "AGUA MINERAL POA SEM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898013120067,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898013120067
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:48:10.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/0536BF296D6A80304D57FC89B27CB003.png",
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "AGUA MINERAL POA SEM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": 315,
+      "gtin": 7898013120111,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898013120111
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": 300,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-09-03T05:45:22.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/0536BF296D6A80306810BBA8615CC0E7.png",
+      "created_at": "2014-04-24T11:07:34.000-03:00",
+      "description": "AGUA MINERAL POA SEM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898013120128,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898013120128
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2019-12-12T00:27:21.000-02:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/F553DBA9F5747D10E652847B3583B6E3.png",
+      "created_at": "2016-01-19T15:30:23.000-02:00",
+      "description": "AGUA MINERAL PREMIATA SEM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898349430090,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898349430090
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2020-06-13T15:51:45.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/F553DBA9F5747D10234BBF733D54CCA0.png",
+      "created_at": "2016-01-19T15:30:23.000-02:00",
+      "description": "AGUA MINERAL PREMIATA SEM GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898349430069,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898349430069
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2021-07-02T15:12:18.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/860C7AB87C58E0E783827AF14925592F.png",
+      "created_at": "2016-01-28T22:16:04.000-02:00",
+      "description": "AGUA MIN.SCHIN C/GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7896052600533,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7896052600533
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2019-04-22T10:04:12.000-03:00",
+      "width": 0.0
+    },
+    {
+      "avg_price": null,
+      "barcode_image": "https://api.cosmos.bluesoft.com.br/products/barcode/1128AA4D89F01CF1A357A19E9E752858.png",
+      "created_at": "2016-02-24T10:07:17.000-03:00",
+      "description": "AGUA MINERAL TIBET S/GAS",
+      "gpc": {
+        "code": "10000232",
+        "description": "Água engarrafada"
+      },
+      "gross_weight": null,
+      "gtin": 7898906563018,
+      "gtins": [
+        {
+          "commercial_unit": {
+            "ballast": null,
+            "layer": null,
+            "quantity_packaging": 1,
+            "type_packaging": "Unidade"
+          },
+          "gtin": 7898906563018
+        }
+      ],
+      "height": 0.0,
+      "length": 0.0,
+      "max_price": 0.0,
+      "min_price": 0.0,
+      "ncm": {
+        "code": "22011000",
+        "description": "Águas minerais e águas gaseificadas",
+        "full_description": "Bebidas, líquidos alcoólicos e vinagres - Águas, incluindo as águas minerais, naturais ou artificiais, e as águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas; gelo e neve. - Águas minerais e águas gaseificadas"
+      },
+      "net_weight": null,
+      "origin": "COSMOS",
+      "price": null,
+      "thumbnail": "https://api.cosmos.bluesoft.com.br/assets/ncm/2201-75c5804878e564ccd62133f2356e313b.png",
+      "updated_at": "2018-08-15T15:59:10.000-03:00",
+      "width": 0.0
+    }
+  ]
